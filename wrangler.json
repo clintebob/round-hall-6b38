@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "round-hall-6b38",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "182d5eaa-6109-4dcf-804c-d1189e2c71f2",
+      "database_name": "wild-king-c5fc-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
